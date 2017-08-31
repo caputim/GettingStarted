@@ -1,0 +1,6 @@
+C:\Users\eahscs\Documents\GitHub\GettingStarted\GettingStarter\bin\Debug\GettingStarter.exe.config
+C:\Users\eahscs\Documents\GitHub\GettingStarted\GettingStarter\bin\Debug\GettingStarter.exe
+C:\Users\eahscs\Documents\GitHub\GettingStarted\GettingStarter\bin\Debug\GettingStarter.pdb
+C:\Users\eahscs\Documents\GitHub\GettingStarted\GettingStarter\obj\Debug\GettingStarter.csprojResolveAssemblyReference.cache
+C:\Users\eahscs\Documents\GitHub\GettingStarted\GettingStarter\obj\Debug\GettingStarter.exe
+C:\Users\eahscs\Documents\GitHub\GettingStarted\GettingStarter\obj\Debug\GettingStarter.pdb
