@@ -10,20 +10,28 @@ namespace GettingStarter
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("hello");
-            String correctu = "root";
-            String correctp = "letmein";
-            String attemptu = "";
-            String attemptp = "";
-            for (int i = 0; i < 3; i++)
-            {
-                Console.Write("Enter a username: ");
-                attemptu = Console.ReadLine;
 
-                Console.Write("Enter a password: ")
-                    attemptp = Console.ReadLine;
+            String word = "";
+            word = Console.ReadLine();
+            int numberone = int.Parse(word.Substring(0, 1));
+            String operation = word.Substring(2, 3);
+            int numbertwo = int.Parse(word.Substring(4));
 
-                    }
+            int sum = 0;
+
+            if(operation == "+")
+                sum = numberone + numbertwo;
+            if(operation == "*")
+                sum = numberone * numbertwo;
+            if(operation == "/")
+                sum = numberone / numbertwo;
+            if(operation == "-")
+                sum = numberone - numbertwo;
+
+            Console.WriteLine(numberone + " " + operation + " " + numbertwo + " = " + sum);
+
+
+
         }
     }
 }
